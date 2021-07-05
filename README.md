@@ -16,3 +16,4 @@
 11. Link each "lyrics" text with the appropriate file
 12. Link each "Group/Artist" text with the appropriate file
 13. Inside each file add a link that when clicked takes the user back to the index.html file
+
